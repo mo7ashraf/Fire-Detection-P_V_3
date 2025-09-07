@@ -1,0 +1,15 @@
+ultralytics==8.3.0
+onnx==1.16.1
+onnxruntime-gpu
+opencv-python
+numpy
+pillow
+matplotlib
+pandas
+pyyaml
+tqdm
+huggingface_hub
+datasets
+gdown
+python-docx
+python-pptx
