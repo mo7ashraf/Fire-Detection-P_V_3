@@ -1,8 +1,8 @@
 # Ignore dataset images
 data/pyro_sdis_yolo/
 data\pyro_sdis_yolo\
-datasets/pyro_sdis_yolo/
-datasets\pyro_sdis_yolo\
+dataset/pyro_sdis_yolo/
+dataset\pyro_sdis_yolo\
 
 # Ignore Python cache and environment files
 __pycache__/
