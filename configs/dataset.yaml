@@ -1,4 +1,4 @@
-path: ./dataset
+path: ./datasets
 train: pyro_sdis_yolo/images/train
 val: pyro_sdis_yolo/images/val
 names:
